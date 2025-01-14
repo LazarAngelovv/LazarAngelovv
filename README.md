@@ -7,7 +7,7 @@ Welcome to my GitHub space! I specialize in building **reliable, efficient, and 
 
 ## 🎯 **About Me**  
 
-💡 Passionate about **low-level programming** and creating software that’s both **robust** and **user-friendly**.  
+💡 Passionate about **software programming** and creating software that’s both **robust** and **user-friendly**.  
 🌱 Currently exploring **system design**, **concurrent programming**, and the art of **software craftsmanship**.  
 ✨ On a mission to contribute to **impactful projects** and continually grow as a developer.  
 
