@@ -6,9 +6,9 @@ I specialize in building **reliable**, **efficient**, and **scalable** applicati
 ---
 
 ### 🛠️ Tech Arsenal  
-- **Languages**: C/C++, Python, Bash  
+- **Languages**: C/C++, Python, Bash, Rust
 - **Expertise**: Application Development, Game Development, System Programming  
-- **Tools**: Git, GDB, Valgrind, CMake, Visual Studio, CLion  
+- **Tools**: Git, GDB, Valgrind, CMake, Visual Studio, CLion, Zed
 - **OS**: Linux & Windows
   
 ---
